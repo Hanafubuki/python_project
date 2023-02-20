@@ -1,0 +1,3 @@
+# Aqui vai os pacotes que vc instala com pip install..
+# Exemplos: (nome do pacote==versao do pacote)
+faker==13.11.1
